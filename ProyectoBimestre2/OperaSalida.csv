@@ -1,0 +1,103 @@
+NOMBRE;APELLIDO;CARRERA;NOTA;RESULTADO
+Sofia;Ramirez;Quimica;99;Admitido;;
+Sofia;Ruiz;Quimica;97;Admitido;;
+Milka;Quinde;Quimica;94;Admitido;;
+Maria;Carrion;Quimica;92;Admitido;;
+Dario;Andrade;Quimica;84;Admitido;;
+Arlet;Garcia;Quimica;84;Admitido;;
+Juan;Quinde;Quimica;83;Admitido;;
+Ana;Sanchez;Quimica;82;Admitido;;
+Sofia;Valarezo;Quimica;82;Admitido;;
+Maria;Ruiz;Quimica;82;Admitido;;
+Sofia;Carrion;Quimica;81;Admitido;;
+Sofia;Sanchez;Quimica;80;Admitido;;
+Ana;Paez;Quimica;76;No Admitido;;
+Ana;Quinde;Quimica;76;No Admitido;;
+Pablo;Garcia;Quimica;75;No Admitido;;
+Dario;Ramirez;Quimica;73;No Admitido;;
+Maria;Ramirez;Quimica;63;No Admitido;;
+Arlet;Quinde;Quimica;59;No Admitido;;
+Ana;Ruiz;Quimica;58;No Admitido;;
+Milka;Valarezo;Quimica;57;No Admitido;;
+Milka;Quinde;Quimica;54;No Admitido;;
+Juan;Vazquez;Quimica;51;No Admitido;;
+Maria;Carrion;Quimica;48;No Admitido;;
+Sofia;Ruiz;Quimica;44;No Admitido;;
+Pablo;Andrade;Quimica;44;No Admitido;;
+Sofia;Carrion;Quimica;43;No Admitido;;
+Ana;Ruiz;Quimica;34;No Admitido;;
+Maria;Garcia;Quimica;33;No Admitido;;
+Ana;Garcia;Quimica;32;No Admitido;;
+Juan;Andrade;Quimica;31;No Admitido;;
+Pablo;Vazquez;Quimica;31;No Admitido;;
+
+Ana;Andrade;Fisio;97;Admitido;;
+Lili;Vazquez;Fisio;96;Admitido;;
+Dario;Vazquez;Fisio;91;Admitido;;
+Juan;Carrion;Fisio;90;Admitido;;
+Ana;Ramirez;Fisio;88;No Admitido;;
+Lili;Paez;Fisio;87;No Admitido;;
+Ana;Valarezo;Fisio;86;No Admitido;;
+Arlet;Ruiz;Fisio;86;No Admitido;;
+Pedro;Ruiz;Fisio;85;No Admitido;;
+Maria;Valarezo;Fisio;83;No Admitido;;
+Ana;Ramirez;Fisio;82;No Admitido;;
+Dario;Garcia;Fisio;78;No Admitido;;
+Pedro;Quinde;Fisio;77;No Admitido;;
+Lili;Garcia;Fisio;73;No Admitido;;
+Milka;Paez;Fisio;73;No Admitido;;
+Maria;Garcia;Fisio;68;No Admitido;;
+Pablo;Carrion;Fisio;66;No Admitido;;
+Milka;Paez;Fisio;61;No Admitido;;
+Lili;Garcia;Fisio;59;No Admitido;;
+Arlet;Paez;Fisio;59;No Admitido;;
+Maria;Valarezo;Fisio;59;No Admitido;;
+Milka;Ramirez;Fisio;54;No Admitido;;
+Lili;Ruiz;Fisio;54;No Admitido;;
+Sofia;Paez;Fisio;53;No Admitido;;
+Dario;Andrade;Fisio;53;No Admitido;;
+Pedro;Paez;Fisio;53;No Admitido;;
+Maria;Ruiz;Fisio;51;No Admitido;;
+Pablo;Ramirez;Fisio;51;No Admitido;;
+Ana;Ruiz;Fisio;51;No Admitido;;
+Arlet;Valarezo;Fisio;50;No Admitido;;
+Juan;Carrion;Fisio;44;No Admitido;;
+Dario;Valarezo;Fisio;40;No Admitido;;
+Maria;Ramirez;Fisio;39;No Admitido;;
+Arlet;Paez;Fisio;38;No Admitido;;
+Lili;Paez;Fisio;35;No Admitido;;
+Arlet;Valarezo;Fisio;32;No Admitido;;
+Maria;Vazquez;Fisio;32;No Admitido;;
+
+NOMBRE;APELLIDO;CARRERA;NOTA;NOTA PONDERADA;MERITO;RESULTADO
+Ana;Andrade;Medicina;99;100.0;Abanderado;Admitido
+Milka;Quinde;Medicina;92;95.0;Capacidad Especial;Admitido
+Maria;Carrion;Medicina;92;94.0;Bachillerato Afin;Admitido
+Dario;Vazquez;Medicina;91;91.0;Sin Merito;Admitido
+Ana;Ramirez;Medicina;89;90.0;Bachillerato Afin;Admitido
+Juan;Quinde;Medicina;85;88.0;Abanderado;Admitido
+Sofia;Carrion;Medicina;82;82.0;Capacidad Especial;No Admitido
+Sofia;Sanchez;Medicina;80;80.0;Sin Merito;No Admitido
+Pedro;Quinde;Medicina;75;77.0;Sin Merito;No Admitido
+Arlet;Ruiz;Medicina;73;74.0;Abanderado;No Admitido
+Pablo;Paez;Medicina;70;71.0;Abanderado;No Admitido
+Sofia;Garcia;Medicina;69;70.0;Sin Merito;No Admitido
+Dario;Sanchez;Medicina;68;70.0;Bachillerato Afin;No Admitido
+Pablo;Carrion;Medicina;66;66.0;Sin Merito;No Admitido
+Maria;Valarezo;Medicina;59;60.0;Capacidad Especial;No Admitido
+Ana;Ruiz;Medicina;58;59.0;Capacidad Especial;No Admitido
+Sofia;Paez;Medicina;57;58.0;Abanderado;No Admitido
+Juan;Carrion;Medicina;53;56.0;Abanderado;No Admitido
+Milka;Ramirez;Medicina;51;54.0;Sin Merito;No Admitido
+Pablo;Ramirez;Medicina;50;51.0;Sin Merito;No Admitido
+Arlet;Valarezo;Medicina;49;51.0;Capacidad Especial;No Admitido
+Ana;Paez;Medicina;48;50.0;Bachillerato Afin;No Admitido
+Pablo;Sanchez;Medicina;48;50.0;Bachillerato Afin;No Admitido
+Arlet;Ramirez;Medicina;48;49.0;Sin Merito;No Admitido
+Dario;Sanchez;Medicina;48;49.0;Abanderado;No Admitido
+Sofia;Ruiz;Medicina;44;46.0;Bachillerato Afin;No Admitido
+Sofia;Carrion;Medicina;41;43.0;Sin Merito;No Admitido
+Pedro;Ramirez;Medicina;41;43.0;Bachillerato Afin;No Admitido
+Dario;Valarezo;Medicina;38;41.0;Capacidad Especial;No Admitido
+Juan;Vazquez;Medicina;38;40.0;Bachillerato Afin;No Admitido
+Sofia;Quinde;Medicina;32;33.0;Capacidad Especial;No Admitido
