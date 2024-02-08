@@ -12,7 +12,6 @@ public class ProyectoBimestre2 {
         String datosSalidaMedicina[][]= new String[limPostulantes][limDatos];
         generarDatosPostulantes(matrizDatosPostulantes);
         leerNotas(matrizDatosPostulantes);
-        // Llamar al método generarFechaInscripcion
         int diaInscripcion = generarFechaInscripcion();
         inscrpExamenAdmision(matrizDatosPostulantes, diaInscripcion);
         ResultadoExamenQuimica(matrizDatosPostulantes, datosSalidaQuimica); 
@@ -22,15 +21,14 @@ public class ProyectoBimestre2 {
     }
     
     public static int generarFechaInscripcion() {
-        // fecha aleatoria entre 1 y 28 de marzo
-        int fechaInscripcion=(int)(Math.random()*(28-1+1)+28);
-        return (int) (Math.random() * 28) + 1;
+        
+        int fechaInscripcion=(int)(Math.random()*28)+1;
+        return fechaInscripcion;
     }
     
     public static void inscrpExamenAdmision(String matrizDatosPostulantes[][], int diaInscripcion) {
         int diaLimite = 20;
         if (diaInscripcion <= diaLimite) {
-            // Presentar la parte de la fecha en la consola
             System.out.println("Su inscripción fue el " + diaInscripcion + " de marzo. "
                                 + (" Se asignará su fecha para el examen.") + "\n");
         } else {
@@ -60,8 +58,7 @@ public class ProyectoBimestre2 {
                 int indiceAleatFecha=(int)(Math.random()*(23-19+1)+19); 
                 int indiceAleatNota=(int)(Math.random()*(100-30+1)+30);
                 objetoEntrada.format("%s;%s;%s;%s;%s;%s\n",nombPostulantes[indiceAleatNomb],apelPostulantes[indiceAleatapel] ,nombCarrera[indiceAleatCarrera],nombMerito[indiceAleatMerito],indiceAleatFecha,indiceAleatNota);
-            }
-            
+            }    
         objetoEntrada.close();   
         } catch (Exception e) {
             System.out.println(e.getMessage());
